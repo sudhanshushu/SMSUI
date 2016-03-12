@@ -1,0 +1,16 @@
+{
+  "name": "smsui-web",
+  "version": "0.0.1",
+  "description": "SMS Client Center",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "postinstall": "./node_modules/bower/bin/bower install"
+  },
+  "author": "",
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
+}

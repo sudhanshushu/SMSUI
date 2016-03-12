@@ -1,0 +1,6 @@
+# #!/bin/bash
+
+# node index.js &
+# node_modules/.bin/watchify src/**/*.js -v -t reactify -g livereactload -o dist/js/main.js &
+# node_modules/.bin/livereactload monitor dist/js/main.js &
+# wait
